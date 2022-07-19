@@ -1,0 +1,34 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "test",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaShevch/Project.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "alina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlinaShevch/Project/issues"
+  },
+  "homepage": "https://github.com/AlinaShevch/Project#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "parcel": "^2.3.2",
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.4",
+    "bootstrap": "^5.1.3",
+    "swiper": "^8.0.7"
+  }
+}
